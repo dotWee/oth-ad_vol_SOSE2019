@@ -11,4 +11,3 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 2](/uebungen/blatt_01/aufgabe_02/)
   - [ ] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/)
   - [ ] [Aufgabe 4](/uebungen/blatt_01/aufgabe_04/)
-
