@@ -1,5 +1,5 @@
-#ifndef AD_KEC_WI201819_MATRIX_H
-#define AD_KEC_WI201819_MATRIX_H
+#ifndef AD_VOL_SOSE2019_MATRIX_H
+#define AD_VOL_SOSE2019_MATRIX_H
 
 class Matrix {
 public:
@@ -20,4 +20,4 @@ public:
 };
 
 
-#endif //AD_KEC_WI201819_MATRIX_H
+#endif //AD_VOL_SOSE2019_MATRIX_H

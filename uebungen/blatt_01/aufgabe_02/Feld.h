@@ -1,5 +1,5 @@
-#ifndef AD_KEC_WI201819_FELD_H
-#define AD_KEC_WI201819_FELD_H
+#ifndef AD_VOL_SOSE2019_FELD_H
+#define AD_VOL_SOSE2019_FELD_H
 
 class Feld {
 public:
@@ -21,4 +21,4 @@ private:
 };
 
 
-#endif //AD_KEC_WI201819_FELD_H
+#endif //AD_VOL_SOSE2019_FELD_H
