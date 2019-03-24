@@ -1,0 +1,60 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Make blatt_01/aufgabe_01",
+            "type": "shell",
+            "command": "make .",
+            "options": {
+                "cwd": "${workspaceRoot}/uebungen/blatt_01/aufgabe_01"
+            },
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }, {
+            "label": "Make blatt_01/aufgabe_02",
+            "type": "shell",
+            "command": "make .",
+            "options": {
+                "cwd": "${workspaceRoot}/uebungen/blatt_01/aufgabe_02"
+            },
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }, {
+            "label": "Make blatt_01/aufgabe_03",
+            "type": "shell",
+            "command": "make .",
+            "options": {
+                "cwd": "${workspaceRoot}/uebungen/blatt_01/aufgabe_03"
+            },
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        } ,{
+            "label": "Make blatt_01/aufgabe_04",
+            "type": "shell",
+            "command": "make .",
+            "options": {
+                "cwd": "${workspaceRoot}/uebungen/blatt_01/aufgabe_04"
+            },
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
