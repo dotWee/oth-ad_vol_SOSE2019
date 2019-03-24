@@ -11,3 +11,10 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [x] [Aufgabe 2](/uebungen/blatt_01/aufgabe_02/)
   - [x] [Aufgabe 3](/uebungen/blatt_01/aufgabe_03/)
   - [x] [Aufgabe 4](/uebungen/blatt_01/aufgabe_04/)
+
+## Abgabe
+
+Generieren einer .zip zur Abgabe von Blatt XX:
+
+    zip -r uebungen/blatt_XX/ABGABE.zip uebungen/blatt_XX/
+
