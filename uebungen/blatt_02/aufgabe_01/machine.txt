@@ -1,0 +1,18 @@
+LDK 0 //lader 0 um adressen zu initialisieren
+STA 1 //ist der zwischenspeicher
+STA 2 //hier soll summe gespeichert werden
+LDK 1 //lade 1
+STA 3 //register3 = 1 um zu dekrementieren
+INP 4 //jetzt steht in register 4 wie groß n ist
+LDA 4 //akku = restliches n
+JEZ 17  //wenn akku 0 ist sind wir fertig und koennen aus der Schleife springen
+STA 1 //speichert restliches n in register 1
+SUB 3 //n--
+STA 4 //speichert das dekrementierte n in register4 ab
+LDA 1 //hohl das urspruengliche n
+MUL 1 //um n*n zu erhalten
+ADD 2 //summe bis jetzt + n*n
+STA 2 //damit urspruengliche summe + n*n steht
+JMP 7 //springe wieder hoch, also neue Runde
+OUT 2 //um wert auszugeben
+HLT 99 //Programmende
