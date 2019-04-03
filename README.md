@@ -18,9 +18,14 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 3](/uebungen/blatt_02/aufgabe_03/)
   - [ ] [Aufgabe 4](/uebungen/blatt_02/aufgabe_04/)
 
+- [ ] [Übungsblatt 3](/uebungen/blatt_03/)
+  - [ ] [Aufgabe 1](/uebungen/blatt_03/aufgabe_01/)
+  - [ ] [Aufgabe 2](/uebungen/blatt_03/aufgabe_02/)
+  - [ ] [Aufgabe 3](/uebungen/blatt_03/aufgabe_03/)
+  - [x] [Aufgabe 4](/uebungen/blatt_03/aufgabe_04/)
+
 ## Abgabe
 
 Generieren einer .zip zur Abgabe von Blatt XX:
 
     zip -r uebungen/blatt_XX/ABGABE.zip uebungen/blatt_XX/
-
