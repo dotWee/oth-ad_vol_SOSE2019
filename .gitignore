@@ -1,4 +1,5 @@
 *.zip
+*.jpg
 *.o
 .DS_Store
 Cmain
