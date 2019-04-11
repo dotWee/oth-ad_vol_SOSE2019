@@ -26,7 +26,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
 
 - [ ] [Übungsblatt 4](/uebungen/blatt_04/)
   - [x] [Aufgabe 1](/uebungen/blatt_04/aufgabe_01/)
-  - [ ] [Aufgabe 2](/uebungen/blatt_04/aufgabe_02/)
+  - [x] [Aufgabe 2](/uebungen/blatt_04/aufgabe_02/)
   - [ ] [Aufgabe 3](/uebungen/blatt_04/aufgabe_03/)
   - [ ] [Aufgabe 4](/uebungen/blatt_04/aufgabe_04/)
 
