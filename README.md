@@ -36,6 +36,12 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 3](/uebungen/blatt_05/aufgabe_03/)
   - [ ] [Aufgabe 4](/uebungen/blatt_05/aufgabe_04/)
 
+- [ ] [Übungsblatt 6](/uebungen/blatt_06/)
+  - [x] [Aufgabe 1](/uebungen/blatt_06/aufgabe_01/)
+  - [ ] [Aufgabe 2](/uebungen/blatt_06/aufgabe_02/)
+  - [ ] [Aufgabe 3](/uebungen/blatt_06/aufgabe_03/)
+  - [ ] [Aufgabe 4](/uebungen/blatt_06/aufgabe_04/)
+
 ## Abgabe
 
 Generieren einer .zip zur Abgabe von Blatt XX:
