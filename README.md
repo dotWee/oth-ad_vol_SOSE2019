@@ -70,7 +70,7 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 1](/uebungen/blatt_11/aufgabe_01/)
   - [ ] [Aufgabe 2](/uebungen/blatt_11/aufgabe_02/)
   - [x] [Aufgabe 3](/uebungen/blatt_11/aufgabe_03/)
-  - [ ] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/)
+  - [x] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/)
 
 ## Abgabe
 
