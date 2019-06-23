@@ -60,11 +60,17 @@ Folgende Aufgaben wurden bearbeitet und sind sortiert im Format _/blatt_xx/aufga
   - [ ] [Aufgabe 3](/uebungen/blatt_09/aufgabe_03/)
   - [x] [Aufgabe 4](/uebungen/blatt_09/aufgabe_04/)
 
-- [ ] [Übungsblatt 10](/uebungen/blatt_10/)
+- [x] [Übungsblatt 10](/uebungen/blatt_10/)
   - [x] [Aufgabe 1](/uebungen/blatt_10/aufgabe_01/)
   - [x] [Aufgabe 2](/uebungen/blatt_10/aufgabe_02/)
   - [x] [Aufgabe 3](/uebungen/blatt_10/aufgabe_03/)
   - [ ] [Aufgabe 4](/uebungen/blatt_10/aufgabe_04/)
+
+- [ ] [Übungsblatt 11](/uebungen/blatt_11/)
+  - [ ] [Aufgabe 1](/uebungen/blatt_11/aufgabe_01/)
+  - [ ] [Aufgabe 2](/uebungen/blatt_11/aufgabe_02/)
+  - [x] [Aufgabe 3](/uebungen/blatt_11/aufgabe_03/)
+  - [ ] [Aufgabe 4](/uebungen/blatt_11/aufgabe_04/)
 
 ## Abgabe
 
